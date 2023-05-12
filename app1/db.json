@@ -1,0 +1,129 @@
+{
+  "exercises": [
+    {
+      "name": "Supino reto",
+      "description": "Deite no banco e levante a barra até a extensão total dos braços.",
+      "sets": 4,
+      "reps": 10,
+      "rest": 60
+    },
+    {
+      "name": "Agachamento",
+      "description": "Posicione a barra atrás do pescoço e agache até as pernas formarem um ângulo de 90 graus.",
+      "sets": 3,
+      "reps": 12,
+      "rest": 90
+    },
+    {
+      "name": "Levantamento terra",
+      "description": "Agache e segure a barra com as mãos. Levante a barra até a extensão total dos braços.",
+      "sets": 3,
+      "reps": 8,
+      "rest": 120
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [{
+    "name": "typicode"
+  } ],
+  
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Gabrielle",
+      "lastName": "Alves",
+      "email": "Gabrielle@gmail.com",
+      "dob": "2003-08-03",
+      "gender": "Feminino",
+      "education": "Mestrado",
+      "company": "Senai",
+      "experience": 25,
+      "package": 5000,
+      "cpf": "123.456.789-00",
+      "cep": "12345-678",
+      "telefone": "21 96525-6578"
+    },
+    {
+      "firstName": "Maria ",
+      "lastName": "Eduarda",
+      "email": "Maria@gmail.com",
+      "dob": "2000-07-08T03:00:00.000Z",
+      "gender": "female",
+      "education": "Graduação",
+      "company": "Senac",
+      "experience": 19,
+      "package": 7500,
+      "id": 2,
+      "cpf": "987.654.321-00",
+      "cep": "87654-321",
+      "telefone": "21 96525-6578"
+    },
+    {
+      "firstName": "Rz",
+      "lastName": "Sous",
+      "email": "prodescolado@gmail.com",
+      "dob": "1999-02-09T02:00:00.000Z",
+      "gender": "male",
+      "education": "Graduação",
+      "company": "Senac",
+      "experience": 1,
+      "package": 1700,
+      "id": 3,
+      "cpf": "456.789.123-00",
+      "cep": "56789-123"
+    },
+    {
+      "firstName": "henderson",
+      "lastName": "daniel",
+      "email": "tiofiu@gmail.com",
+      "dob": "1980-10-01T03:00:00.000Z",
+      "gender": "male",
+      "education": "Mestrado",
+      "company": "amazon",
+      "experience": 1,
+      "package": 100000,
+      "cpf": "12345678900",
+      "cep": "23000978",
+      "id": 4
+    },
+    {
+      "firstName": "Robert ",
+      "lastName": "Lewandowski",
+      "email": "lewar9@gmail.com",
+      "dob": "1992-02-12T03:00:00.000Z",
+      "gender": "male",
+      "education": "Mestrado",
+      "company": "barcelona",
+      "experience": 6,
+      "package": 1000,
+      "cpf": "123.456.789-00",
+      "cep": "23000-123",
+      "id": 5
+    },
+    {
+      "firstName": "maria",
+      "lastName": "dasd",
+      "email": "sdsadsadsadsa@dfdf",
+      "dob": "2023-05-03T03:00:00.000Z",
+      "gender": "male",
+      "education": "Médio",
+      "company": "",
+      "experience": 355,
+      "package": 354354,
+      "id": 6
+    }
+  ]
+}

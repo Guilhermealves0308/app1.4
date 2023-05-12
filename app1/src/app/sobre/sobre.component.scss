@@ -1,0 +1,44 @@
+$primary-color: #333;
+$secondary-color: #777;
+$background-color: #f4f4f4;
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: $background-color;
+
+  h2 {
+    color: $primary-color;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    color: $secondary-color;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    color: $primary-color;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  p.schedule {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+}

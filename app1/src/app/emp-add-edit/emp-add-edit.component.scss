@@ -1,0 +1,35 @@
+.content {
+  padding-top: 16px;
+
+  .row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+
+    .mat-form-field {
+      flex: 1;
+      width: 100%;
+    }
+
+    .mat-radio-group {
+      flex: 1;
+    }
+  }
+
+  .mat-hint {
+    font-size: 12px;
+  }
+}
+
+.action {
+  padding: 16px 25px 20px;
+
+  button {
+    flex: 1;
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
